@@ -7,5 +7,5 @@ I am Daniele aka Lelle, Software Engineer living in EU (working remote) from Pad
 - 📫 How to reach me:
   - Twitter [@lelledaniele](https://twitter.com/lelledaniele)
   - Email lelle.daniele@gmail.com
-- 😄 Pronouns: Lelle
+- 😄 Nickname: Lelle
 - 💖 You can sponsor me on [GitHub](https://github.com/sponsors/lelledaniele) to support my open source work https://github.com/sponsors/lelledaniele
