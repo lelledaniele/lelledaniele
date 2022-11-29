@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am Daniele aka Lelle, Software Engineer living in EU (working remote) from Padova, Italy.
+I am Lelle, Software Engineer living in London, UK.
 
 - 🌱 I’m currently learning Go and Rust
 - 👯 I’m looking to continue to help small business with commonly used services, so they can focus on delivering the business logic
